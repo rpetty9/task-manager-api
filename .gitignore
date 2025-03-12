@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# OS files
+Thumbs.db
+
+# Editor-specific files
+.vscode/
