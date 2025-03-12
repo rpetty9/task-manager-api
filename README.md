@@ -117,3 +117,19 @@ To deploy the API:
 ## License
 
 - This project is licensed under the MIT License. Feel free to use and modify it.
+
+
+## Dictionary
+
+### API
+
+- An API is a set of rules that allow different software applications to communicate. It defines endpoints (URLs), methods (GET, POST, PUT, DELETE), and data formats (JSON, XML).
+- An API is a bridge that allows different applications to talk to each other.:
+
+#####  Real-World Analogy:
+Think of an API like a waiter in a restaurant:
+
+1. You (the client) order food (request data).
+2. The waiter (API) takes your order to the kitchen (server).
+3. The kitchen prepares the food (processes the request).
+4. The waiter brings the food back to you (response).
